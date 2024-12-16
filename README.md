@@ -13,6 +13,6 @@ Ordem de Serviço (OS): Organiza os serviços, peças e equipes envolvidas.<br>
 Cada Ordem de Serviço está ligada a outras duas entidade: <br>
 Serviços: Ela contem o campo valorMãoDeObra para o calculo do valor que tera a mão de obra do serviço a ser realizado. E o campo equipeResponsavel 
 visto que  a narrativa sugere que uma equipe identifica os serviços a serem executados.<br>
-Peças: Associadas à OSe com um campo da identiuficar o valor das peças e um canpo para identificar a quantidade diretamente no relacionamento.
+Peças: Associadas à OS e com um campo para identificar o valor das peças, e um canpo para identificar a quantidade diretamente no relacionamento.
 
-Adicionei um campo Autorização do Cliente na entidade Ordem de Serviço (OS) já que a narrativa menciona que o cliente precisa autorizar a execução.
+Adicionei um campo Autorização do Cliente na entidade Ordem de Serviço (OS), já que a narrativa menciona que o cliente precisa autorizar a execução.
